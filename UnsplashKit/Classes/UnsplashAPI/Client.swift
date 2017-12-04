@@ -39,7 +39,7 @@ public final class UnsplashClient {
 
     // MARK: - Constants
 
-    fileprivate struct Constants {
+    struct Constants {
         static var location: String = "https://api.unsplash.com/"
     }
 
